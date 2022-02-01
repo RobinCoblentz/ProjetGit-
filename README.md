@@ -1,5 +1,5 @@
 # ProjetGit_
-Découvrons git à travers un projet de site vitrine.
+Découvrons git à travers un projet de site vitrine. <br>
 Le but de ce projet est la découverte des outils git, et l'amélioration des compétances html/css
 
 Participant :
