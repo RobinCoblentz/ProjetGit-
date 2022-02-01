@@ -2,7 +2,7 @@
 Découvrons git à travers un projet de site vitrine. <br>
 Le but de ce projet est la découverte des outils git, et l'amélioration des compétances html/css <br><br>
 
-<ul>Participant :
+<ul>Participant : <br>
   <li>Rédouan Rémili </li>
   <li>Amel Krifah  </li>
   <li>Robin Coblentz </li>
