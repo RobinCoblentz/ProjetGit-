@@ -41,3 +41,10 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 <p>Gulp sera utilisé pour l'optimisation de l'intégration des images</p><br>
 <a>https://gulpjs.com</a>
 
+<p>Unsplash nous servira de banque d'image libre de droit</p><br>
+<a>https://unsplash.com/</a>
+
+<p>Undraw servira de banque de graphisme d'animation</p><br>
+<a>https://undraw.co/search</a>
+
+
