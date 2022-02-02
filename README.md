@@ -32,3 +32,12 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 
 <h3>Source</h3>
 
+<p>On utilisera une maquette de laquelle on s'inspirera</p><br>
+<a>https://pin.it/5c259q6</a>
+
+<p>Nous utiliseront la version 5.1 de bootsrtap, car elle comporte des animation et des éléments proche de la maquette</p><br>
+<a>https://getbootstrap.com/docs/5.1/getting-started/download/</a>
+
+<p>Gulp sera utilisé pour l'optimisation de l'intégration des images</p><br>
+<a>https://gulpjs.com</a>
+
