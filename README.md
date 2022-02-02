@@ -1,8 +1,8 @@
-# ProjetGit_
+# ProjetGit
 <h1>Découvrons git à travers un projet de site vitrine.</h1> <br>
-<h3>Le but de ce projet est la découverte des outils git, et l'amélioration des compétances html/css</h3> <br><br>
+<h3>Le but de ce projet est la découverte des outils git, et l'amélioration des compétances html/css</h3> <br>
 
-<ul><h5>Participant :</h5>
+<ul><h4>Participant :</h4>
 <br>
   <li>Rédouan Rémili </li>
   <li>Amel Krifah  </li>
@@ -21,7 +21,7 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 
 <h3>Workflow</h3>
 
-<ul><h5>On utilisera 4 branches :</h5><br><br>
+<ul><h4>On utilisera 4 branches :</h4><br>
 
 <li>Homepage (branche de mise en place de la structure de base)</li><br>
 <li>preprod (sert de branche de visu)</li><br>
