@@ -7,6 +7,7 @@
   <li>Rédouan Rémili </li>
   <li>Amel Krifah  </li>
   <li>Robin Coblentz </li>
+  <li>Coline Salvi</li>
 </ul>
 <br>
 
