@@ -36,6 +36,9 @@ li{
 .header-homepage{
   position: relative;
 }
+.imgheader{
+  width: 100%;
+}
 .text{
   color: white;
   position: absolute;

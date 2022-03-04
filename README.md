@@ -74,4 +74,4 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 <p>étant donné que nous travaillons chacun de notre côté sur une branche personnelle les pull request vont être importantes : une fois notre travail finalisé sur toutes les branches on va les regrouper afin de voir le site dans l'ensemble et vérifier si tout fonctionne bien ensemble. <br> les pull request vont permettre de comparer les différentes branches avant de les regrouper afin d'éviter des conflits l</p><br><br>
 
 <p>Les commit</p><br>
-<p>les commits vont nous permettre de structurer notre workflow en créant une arborescence sur le code qu'on commit</p><br><br>
+<p>les commits vont nous permettre de structurer notre workflow en créant une arborescence sur le code qu'on commit</p><br><br>`^^^^
