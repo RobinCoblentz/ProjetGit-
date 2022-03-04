@@ -24,10 +24,11 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 
 <ul><h4>On utilisera 4 branches :</h4><br>
 
-<li>Homepage (branche de mise en place de la structure de base)</li><br>
+<li>Homepage (sert a développer pour Robin)</li><br>
 <li>preprod (sert de branche de visu)</li><br>
 <li>dev (branche propre au developpement)</li><br>
 <li>main (sert de branche de recette)</li><br>
+<li>amel (sert a développer pour Amel)</li><br>
 </ul><br>
 
 
@@ -48,4 +49,7 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 <p>Undraw servira de banque de graphisme d'animation</p><br>
 <a>https://undraw.co/search</a>
 
+
+<h3>Travaille fait</h3>
+<p> On c'est répartit les tâches. On c'est chacun positionner sur une branche pour développer sans soucis</p>
 
