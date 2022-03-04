@@ -29,12 +29,14 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 <li>dev (branche propre au developpement)</li><br>
 <li>main (sert de branche de recette)</li><br>
 </ul><br><br>
-<ul><h4>et 4 branches secondaires qui nous permettent de travailler chacun de son côté avec peu de conflits</h4>
-  <li>La branche header (pour le header et la nav) utilisée par coline</li>
-  <li>objectifs (pour une section) utilisée par robin</li>
-  <li>La branche amel utilisée pour sa section</li>
-  <li>la branche footer utilisée par Rédouan</li>
-</ul>
+
+<ul>
+<h4>et 4 branches secondaires qui nous permettent de travailler chacun de son côté avec peu de conflits<h4><br>
+  <li>La branche header (pour le header et la nav) utilisée par coline</li><br>
+  <li>objectifs (pour une section) utilisée par robin</li><br>
+  <li>La branche amel utilisée pour sa section</li><br>
+  <li>la branche footer utilisée par Rédouan</li><br>
+</ul><br><br>
 
 <h3>Source</h3>
 
@@ -67,6 +69,9 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 <p>Chaque partie sera développé dans section</p><br>
 <p>On fusionnera par la suite les parties dans le fichier index.html</p><br>
 
-<h4>notre façon de fonctionner</h4>
-<p>Les pull request</p>
-<p>étant donné que nous travaillons chacun de notre côté sur une branche personnelle les pull request vont être importantes : une fois notre travail finalisé sur toutes les branches on va les regrouper afin de voir le site dans l'ensemble et vérifier si tout fonctionne bien ensemble. <br> les pull request vont permettre de comparer les différentes branches avant de les regrouper afin d'éviter des conflits l</p>
+<h4>notre façon de fonctionner</h4><br>
+<p>Les pull request</p><br>
+<p>étant donné que nous travaillons chacun de notre côté sur une branche personnelle les pull request vont être importantes : une fois notre travail finalisé sur toutes les branches on va les regrouper afin de voir le site dans l'ensemble et vérifier si tout fonctionne bien ensemble. <br> les pull request vont permettre de comparer les différentes branches avant de les regrouper afin d'éviter des conflits l</p><br><br>
+
+<p>Les commit</p><br>
+<p>les commits vont nous permettre de structurer notre workflow en créant une arborescence sur le code qu'on commit</p><br><br>
