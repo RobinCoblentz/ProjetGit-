@@ -19,10 +19,13 @@
 
 /*************** AMEL *****************/
 
+.container{
+    display: flex;
+}
 
 .warning {
     /*border: 10px ridge #f00;*/
-    background-color: rgb(221, 221, 221);
+    background-color: rgb(230, 230, 230);
     padding: .5rem;
     align-self: center;
     width: 25%;
@@ -33,16 +36,18 @@
 }
 
 .warning img {
-    width: 35%;
+    width: 20%;
     align-self: center;
 }
 
 .warning p {
     font: Montserrat;
+    font-size: 15px;
     text-align: center;
 }
 
 .warning h4 {
+    font-size: 15px;
     font: Montserrat;
     text-align: center;
 }
