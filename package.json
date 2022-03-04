@@ -1,0 +1,23 @@
+{
+  "name": "tutogulp",
+  "description": "Découvrons git à travers un projet de site vitrine. <br> Le but de ce projet est la découverte des outils git, et l'amélioration des compétances html/css <br><br>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinCoblentz/ProjetGit-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobinCoblentz/ProjetGit-/issues"
+  },
+  "homepage": "https://github.com/RobinCoblentz/ProjetGit-#readme"
+}
