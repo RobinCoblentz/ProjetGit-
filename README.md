@@ -24,10 +24,11 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 
 <ul><h4>On utilisera 4 branches :</h4><br>
 
-<li>Homepage (branche de mise en place de la structure de base)</li><br>
+<li>Homepage (sert a développer pour Robin)</li><br>
 <li>preprod (sert de branche de visu)</li><br>
 <li>dev (branche propre au developpement)</li><br>
 <li>main (sert de branche de recette)</li><br>
+<li>amel (sert a développer pour Amel)</li><br>
 </ul><br>
 
 <h3>Source</h3>
@@ -63,3 +64,6 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 
 <h3>Problematique</h3>
 <p>Plusieurs même branch dev ont été créer car lors d'un push -u. Objectif : crer une branch temporaire avec la commande "git branch temp" push la branch. Push les modif dessus pour ne pas risquer de les perdre. ensuite supprimer les 2 branch dev, crer une nouvelle branch dev unique et faire une merge des branch temp et dev nouvellement créer</p>
+<h3>Travaille fait</h3>
+<p> On c'est répartit les tâches. On c'est chacun positionner sur une branche pour développer sans soucis</p>
+
