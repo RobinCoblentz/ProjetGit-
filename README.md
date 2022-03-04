@@ -61,3 +61,4 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 <p>Chaque partie sera développé dans section</p><br>
 <p>On fusionnera par la suite les parties dans le fichier index.html</p><br>
 
+test
