@@ -4,11 +4,11 @@
 
 <ul><h4>Participant :</h4>
 <br>
-  <li>Rédouane Rémili </li>
+  <li>Rédouan Rémili </li>
   <li>Amel Krifah  </li>
   <li>Robin Coblentz </li>
   <li>Coline Salvi</li>
-</ul>
+  </ul>
 <br>
 
 <h3>Présentation</h3>
@@ -30,7 +30,6 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 <li>main (sert de branche de recette)</li><br>
 </ul><br>
 
-
 <h3>Source</h3>
 
 <p>On utilisera une maquette de laquelle on s'inspirera</p><br>
@@ -48,4 +47,17 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 <p>Undraw servira de banque de graphisme d'animation</p><br>
 <a>https://undraw.co/search</a>
 
+
+<h3>Plan d'action</h3>
+
+<p>Le développement du site sera répartie entre les 4 participants de la manière suivante:</p><br>
+
+<p>Coline Salvi s'occupera du header</p><br>
+<p>Robin Coblentz s'occupera de la partie objectif</p><br>
+<p>Amel Krifah s'occupera de la partie cards</p><br>
+<p>Rédouan Rémili s'occupera du footer</p><br><br>
+
+<p>Afin d'éviter au maximum les conflits, chaques parties sera développé dans un fichier différant.</p><br>
+<p>Chaque partie sera développé dans section</p><br>
+<p>On fusionnera par la suite les parties dans le fichier index.html</p><br>
 
