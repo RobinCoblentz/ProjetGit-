@@ -30,6 +30,7 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 <li>main (sert de branche de recette)</li><br>
 <li>amel (sert a développer pour Amel)</li><br>
 </ul><br>
+Chacun des membre du groupe doit avoir sa propre branch car même si nous travaillons sur des fichiers diférents, si l'on push tous sur la même branch cela posera des problème et des conflits car il faudra que l'on arrête tous notre travail et que l'on pull à chaque nouveau push d'un membre du groupe. Alors que si l'on travail sur des branch chacun nous pouvons push tant que l'on veut car il s'agit de notre branch perso. Et c'est seulement la branch develop puis main qui nécessitera des pull request.  
 
 <h3>Source</h3>
 
