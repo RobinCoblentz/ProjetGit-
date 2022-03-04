@@ -61,6 +61,25 @@ li{
 
 /*************** AMEL *****************/
 
+.warning {
+    /*border: 10px ridge #f00;*/
+    background-color: rgb(221, 221, 221);
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    
+}
+
+.warning img {
+    width: 40%;
+    align-self: center;
+}
+
+.warning p {
+    font: Montserrat;
+    text-align: center;
+}
 
 
 
