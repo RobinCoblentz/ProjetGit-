@@ -61,4 +61,5 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 <p>Chaque partie sera développé dans section</p><br>
 <p>On fusionnera par la suite les parties dans le fichier index.html</p><br>
 
-test
+<h3>Problematique</h3>
+<p>Plusieurs même branch dev ont été créer car lors d'un push -u. Objectif : crer une branch temporaire avec la commande "git branch temp" push la branch. Push les modif dessus pour ne pas risquer de les perdre. ensuite supprimer les 2 branch dev, crer une nouvelle branch dev unique et faire une merge des branch temp et dev nouvellement créer</p>
