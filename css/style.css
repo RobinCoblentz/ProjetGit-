@@ -24,12 +24,16 @@
     /*border: 10px ridge #f00;*/
     background-color: rgb(221, 221, 221);
     padding: .5rem;
-    display: flex;
-    width: 30%;
+    align-self: center;
+    width: 25%;
+}
+
+.blanc {
+    background-color: rgb(255, 255, 255);
 }
 
 .warning img {
-    width: 40%;
+    width: 35%;
     align-self: center;
 }
 
@@ -38,7 +42,10 @@
     text-align: center;
 }
 
-
+.warning h4 {
+    font: Montserrat;
+    text-align: center;
+}
 
 
 
