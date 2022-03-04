@@ -43,10 +43,16 @@ body {
     background: no-repeat url("../img/crossfit.jpg");
 }
 
-div_objectif_title{
+#div_objectif_title{
+    padding-top: 50px;
+    padding-left: 700px;
+    color : white ;
+}
+
+#div_objectif_p {
 
 }
 
-div_objectif_p {
-
+#btn_objectif_inscription{
+    
 }
