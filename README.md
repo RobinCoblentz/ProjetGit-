@@ -13,7 +13,7 @@
 
 <h3>Présentation</h3>
 
-<p>Le projet sera un onepage séparé en plusieurs séctions, qui aura pour but la présentation d'une agence de dev freelence.
+<p>Le projet sera un onepage séparé en plusieurs séctions, qui aura pour but la présentation d'une agence de sport.
 Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 
 <h3>Technologie</h3>
@@ -22,21 +22,28 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 
 <h3>Workflow</h3>
 
-<ul><h4>On utilisera 4 branches :</h4><br>
+<ul><h4>On utilisera 4 branches principales:</h4><br>
 
 <li>Homepage (sert a développer pour Robin)</li><br>
 <li>preprod (sert de branche de visu)</li><br>
 <li>dev (branche propre au developpement)</li><br>
 <li>main (sert de branche de recette)</li><br>
-<li>amel (sert a développer pour Amel)</li><br>
-</ul><br>
+</ul><br><br>
+
+<ul>
+<h4>et 4 branches secondaires qui nous permettent de travailler chacun de son côté avec peu de conflits<h4><br>
+  <li>La branche header (pour le header et la nav) utilisée par coline</li><br>
+  <li>objectifs (pour une section) utilisée par robin</li><br>
+  <li>La branche amel utilisée pour sa section</li><br>
+  <li>la branche footer utilisée par Rédouan</li><br>
+</ul><br><br>
 
 <h3>Source</h3>
 
 <p>On utilisera une maquette de laquelle on s'inspirera</p><br>
-<a>https://pin.it/5c259q6</a>
+<a>https://haudrey.notion.site/Fitclub-nonc-9a1258b886404ed79d3e194f1790ef3e</a>
 
-<p>Nous utiliseront la version 5.1 de bootsrtap, car elle comporte des animation et des éléments proche de la maquette</p><br>
+<p>Nous utiliseront la version 5.1 de bootstrap, car elle comporte des animation et des éléments proche de la maquette</p><br>
 <a>https://getbootstrap.com/docs/5.1/getting-started/download/</a>
 
 <p>Gulp sera utilisé pour l'optimisation de l'intégration des images</p><br>
@@ -62,8 +69,4 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 <p>Chaque partie sera développé dans section</p><br>
 <p>On fusionnera par la suite les parties dans le fichier index.html</p><br>
 
-<h3>Problematique</h3>
-<p>Plusieurs même branch dev ont été créer car lors d'un push -u. Objectif : crer une branch temporaire avec la commande "git branch temp" push la branch. Push les modif dessus pour ne pas risquer de les perdre. ensuite supprimer les 2 branch dev, crer une nouvelle branch dev unique et faire une merge des branch temp et dev nouvellement créer</p>
-<h3>Travaille fait</h3>
-<p> On c'est répartit les tâches. On c'est chacun positionner sur une branche pour développer sans soucis</p>
-
+test
