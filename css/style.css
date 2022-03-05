@@ -96,7 +96,7 @@ li{
 *************************/
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 h2 {
@@ -120,36 +120,45 @@ h2 {
 
 
 #concept {
-  
+  width: 100%;
+  padding: 50px 0;
   display: flex;
-  text-align: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  justify-content: center;
   background-color: black;
   color: white;
   border-top: solid 15px rgb(124, 40, 99);
 }
 
 #left {
+  width: 33%;
+  padding-left: 150px;
   text-align: right;
   
 }
 
 #center {
+  width: 33%;
   text-align: center;
   background-color: white;
   color: black;
-  margin: 0px 50px;
-  padding: 50px 30px;
+  margin: -150px 50px 0 50px;
+  padding: 50px;
+}
+
+.button {
+  background-color: rgb(124, 40, 99);
+  color: white;
+  padding: 20px;
+  border: 0;
 }
 
 #right {
+  width: 33%;
   text-align: left;
 }
 
 .coordonnee {
   display: flex;
-  align-items: center;
 }
 
 .coordonnee img {
@@ -157,6 +166,13 @@ h2 {
     margin-right: 10px;
 }
 
+.h3 {
+  margin: 0;
+}
+
+#form {
+  text-align: left;
+}
 
 
 
