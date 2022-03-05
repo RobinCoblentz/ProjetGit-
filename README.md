@@ -4,7 +4,7 @@
 
 <ul><h4>Participant :</h4>
 <br>
-  <li>Rédouane Rémili </li>
+  <li>Rédouan Rémili </li>
   <li>Amel Krifah  </li>
   <li>Robin Coblentz </li>
   <li>Coline Salvi</li>
