@@ -22,13 +22,19 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 
 <h3>Workflow</h3>
 
-<ul><h4>On utilisera 4 branches :</h4><br>
+<ul><h4>On utilisera 7 branches :</h4><br>
 
-<li>Homepage (branche de mise en place de la structure de base)</li><br>
+<li>Homepage (sert a développer pour Robin)</li><br>
 <li>preprod (sert de branche de visu)</li><br>
-<li>dev (branche propre au developpement)</li><br>
+<li>develop (branche propre au developpement)</li><br>
 <li>main (sert de branche de recette)</li><br>
+<li>amel (sert a développer pour Amel)</li><br>
+<li>footer (sert a développer le footer pour Rédouane)</li><br>
+
 </ul><br>
+Chacun des membre du groupe doit avoir sa propre branch car même si nous travaillons sur des fichiers diférents, si l'on push tous sur la même branch cela posera des problème et des conflits car il faudra que l'on arrête tous notre travail et que l'on pull à chaque nouveau push d'un membre du groupe. Alors que si l'on travail sur des branch chacun nous pouvons push tant que l'on veut car il s'agit de notre branch perso. Et c'est seulement des branch comme develop, main qui nécessitera des pull request.
+<br>
+Un pull request est une demande de verification par les autres membre du groupe avant un  merge. C'est très utile car sur github il est possible de configurer ça avec beaucoups de possibilitées : en effet on peut faire la demande de verification du code à une ou plusieurs personnes qui travaille sur le projet, garder une trace et permet à la personne qui verifie de validé un par un les fichiers et mettre des commentaires en cas de besoin.
 
 <h3>Source</h3>
 
@@ -58,7 +64,13 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 <p>Rédouan Rémili s'occupera du footer</p><br><br>
 
 <p>Afin d'éviter au maximum les conflits, chaques parties sera développé dans un fichier différant.</p><br>
-<p>Chaque partie sera développé dans section</p><br>
+<p>Chaque partie sera développé dans le dossier section</p><br>
 <p>On fusionnera par la suite les parties dans le fichier index.html</p><br>
 
-test
+<h3>Problematique</h3>
+<p>Plusieurs même branch dev ont été créer car lors d'un nouveau push il a été rejouter la commande "-u origin dev".<br>
+Objectif : crer une branch temporaire (temp) à partir de la branch dev avec la commande "git branch temp", puis push la branch. Ensuite supprimer les 2 branch dev distantes, et la branch dev en local. Créer une nouvelle branch develop unique (à partir de temp) et faire une merge des branch temp et develop nouvellement créer. 
+Pour finir, supprimer la branch temp.<br>
+Il s'agit ensuite de communiquer ces changement au reste du groupe afin que chacun d'eux supprime le branch dev en local et fasse un "git fetch" pour recuperer la nouvelle branch develop</p>
+<h3>Travaille fait</h3>
+<p> On c'est répartit les tâches. On c'est chacun positionner sur une branche pour développer sans soucis</p>
