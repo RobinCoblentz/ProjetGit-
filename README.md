@@ -33,7 +33,7 @@ Chaque séction sera géré par une personne, afin de limiter les conflit.</p>
 
 </ul><br>
 Chacun des membre du groupe doit avoir sa propre branch car même si nous travaillons sur des fichiers diférents, si l'on push tous sur la même branch cela posera des problème et des conflits car il faudra que l'on arrête tous notre travail et que l'on pull à chaque nouveau push d'un membre du groupe. Alors que si l'on travail sur des branch chacun nous pouvons push tant que l'on veut car il s'agit de notre branch perso. Et c'est seulement des branch comme develop, main qui nécessitera des pull request.
-
+<br>
 Un pull request est une demande de verification par les autres membre du groupe avant un  merge. C'est très utile car sur github il est possible de configurer ça avec beaucoups de possibilitées : en effet on peut faire la demande de verification du code à une ou plusieurs personnes qui travaille sur le projet, garder une trace et permet à la personne qui verifie de validé un par un les fichiers et mettre des commentaires en cas de besoin.
 
 <h3>Source</h3>
